@@ -1,1 +1,22 @@
-{}
+{
+  "passengers": [
+    {
+      "id": 1,
+      "fullname": "paul ha what",
+      "checkedIn": true,
+      "checkedInDate": null
+    },
+    {
+      "id": 2,
+      "fullname": "kevin",
+      "checkedIn": false,
+      "checkedInDate": 1524112325000
+    },
+    {
+      "id": 3,
+      "fullname": "kc",
+      "checkedIn": true,
+      "checkedInDate": 1522112325000
+    }
+  ]
+}
